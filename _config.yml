@@ -56,18 +56,18 @@ plugins:
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
 optional_front_matter:
-  remove_originals:    true
+  remove_originals:    false
 
 readme_index:
-  remove_originals:    true
+  remove_originals:    false
   with_frontmatter:    false
 
 relative_links:
-  collections:         true
+  collections:         false
 
 titles_from_headings:
-  strip_title:         true
-  collections:         true
+  strip_title:         false
+  collections:         false
 
 compress_html:
   comments:            ["<!--", "-->"]
