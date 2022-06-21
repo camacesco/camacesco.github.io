@@ -17,11 +17,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /Documentation/index
+    url:               /Documentation/index/
   - title:             Publications
-    url:               /Documentation/publications
+    url:               /Documentation/publications/
   - title:             CV
-    url:               /Documentation/cv
+    url:               /Documentation/cv/
 
 # Theme
 # ---------------------------------------------------------------------------------------
