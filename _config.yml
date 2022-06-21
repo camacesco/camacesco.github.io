@@ -1,1 +1,103 @@
-remote_theme: hydecorp/hydejack@v9.1.6
+# General settings
+# ---------------------------------------------------------------------------------------
+
+lang:     en
+title:    Francesco Camaglia
+logo:     /figures/foto_1.png
+
+author:
+  # Used by `jekyll-feed`:
+  name:                 Francesco Camaglia
+  email:                francesco.camaglia@phys.ens.fr
+  picture:              /figures/foto_1.png
+
+social:
+  github:               camacesco
+  email:                francesco.camaglia@phys.ens.fr
+  linkedin:             francesco-camaglia-812567207
+
+# Theme
+# ---------------------------------------------------------------------------------------
+
+remote_theme: hydecorp/hydejack@v9
+
+# Customizaton
+# ----------------------------------------------------------------------------------------
+ 
+# Sidebar image and theme color of the site.
+accent_image:          /figures/background_2.jpg
+accent_color:          rgb(79,177,186)    
+
+# Plugins
+# ----------------------------------------------------------------------------------------
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
+  - jemoji
+
+# Plugin Configs
+# ---------------------------------------------------------------------------------------
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
+compress_html:
+  comments:            ["<!--", "-->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+
+sass:
+  style:               compressed
+
+# Jekyll Compose Defaults
+# ---------------------------------------------------------------------------------------
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    posts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    projects:
+      layout: project
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+      links:
+        - title: Project Link
+          url: https://example.com
