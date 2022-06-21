@@ -10,11 +10,19 @@ author:
   name:                 Francesco Camaglia
   email:                francesco.camaglia@phys.ens.fr
   picture:              /figures/foto_1.png
+  social:
+    github:               camacesco
+    email:                francesco.camaglia@phys.ens.fr
+    linkedin:             francesco-camaglia-812567207
 
-social:
-  github:               camacesco
-  email:                francesco.camaglia@phys.ens.fr
-  linkedin:             francesco-camaglia-812567207
+# Add links to the sidebar.
+menu:
+  - title:             About
+    url:               /Documentation/index
+  - title:             Publications
+    url:               /Documentation/publications
+  - title:             CV
+    url:               /Documentation/cv
 
 # Theme
 # ---------------------------------------------------------------------------------------
