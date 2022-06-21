@@ -14,15 +14,6 @@ author:
     email:                francesco.camaglia@phys.ens.fr
     #linkedin:             francesco-camaglia-812567207
 
-# Add links to the sidebar.
-menu:
-  - title:             About
-    url:               /Documentation/index/
-  - title:             Publications
-    url:               /Documentation/publications/
-  - title:             CV
-    url:               /Documentation/cv/
-
 # Theme
 # ---------------------------------------------------------------------------------------
 
