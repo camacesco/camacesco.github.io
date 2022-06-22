@@ -26,6 +26,16 @@ remote_theme: hydecorp/hydejack@v9
 accent_image:          /figures/background_2.jpg
 accent_color:          rgb(79,177,186)    
 
+
+# Menu
+# ----------------------------------------------------------------------------------------
+
+menu:
+  - title:             Publications
+    url:               /menu/publications/
+  - title:             CV
+    url:               /menu/cv/
+
   
 # Plugins
 # ----------------------------------------------------------------------------------------
