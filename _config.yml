@@ -19,17 +19,6 @@ author:
 
 remote_theme: hydecorp/hydejack@v9
 
-
-# Menu
-# ---------------------------------------------------------------------------------------
-menu:
-  - title:             About
-    url:               /index
-  - title:             Publications
-    url:               /publications
-  - title:             CV
-    url:               /cv
-
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
