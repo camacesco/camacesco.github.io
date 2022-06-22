@@ -27,9 +27,9 @@ accent_image:          /figures/background_2.jpg
 accent_color:          rgb(79,177,186)    
 menu:
   - title:             Publications
-    url:               /menu/publications/
+    url:               /publications
   - title:             CV
-    url:               /menu/cv/
+    url:               /cv
 
 #copyright:             © 2021. All rights reserved.
 google_fonts:          Noto+Sans+KR|JetBrains+Mono|Nanum+Gothic+Coding
