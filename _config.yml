@@ -1,7 +1,9 @@
 
 title: Francesco Camaglia
 logo: /figures/foto_1.png
+
 remote_theme: hydecorp/hydejack@v9.1.5
+
 plugins:
   - jekyll-default-layout
   - jekyll-feed
@@ -16,20 +18,24 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jemoji
+  
 author:
   # Used by `jekyll-feed`:
   name:                Francesco Camaglia
   email:               francesco.camaglia@phys.ens.fr
   social:
-    github:            camacesco
     email:             francesco.camaglia@phys.ens.fr
+    github:            camacesco
+    linkedin:
+      id:               francesco-camaglia-812567207
+      
 accent_image:          /figures/background_2.jpg
 accent_color:          rgb(79,177,186)    
 menu:
-  - title:             Publications
-    url:               /publications
   - title:             CV
     url:               /cv
+  - title:             Publications
+    url:               /publications
 
 #copyright:             © 2021. All rights reserved.
 google_fonts:          Noto+Sans+KR|JetBrains+Mono|Nanum+Gothic+Coding
@@ -124,7 +130,7 @@ hydejack:
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
-  no_structured_data:  false
+  no_structured_data:  true # HERE!
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
