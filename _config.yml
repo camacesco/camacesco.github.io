@@ -26,7 +26,7 @@ author:
   social:
     email:             francesco.camaglia@phys.ens.fr
     github:            camacesco
-    linkedin:           francesco-camaglia-812567207
+    #linkedin:           francesco-camaglia-812567207
       
 accent_image:          /figures/background_2.jpg
 accent_color:          rgb(79,177,186)    
@@ -40,6 +40,7 @@ menu:
 google_fonts:          Noto+Sans+KR|JetBrains+Mono|Nanum+Gothic+Coding
 tagline:               >
   PhD Candidate at LPENS Paris
+  
 jekyll_compose:
   default_front_matter:
     drafts:
