@@ -14,7 +14,7 @@ title: CV
   * Selected as a Sapienza Excellent Students 2018/19.
 
 * 2018: **One-semester Erasmus**, Sorbonne Université, Paris. 
-  * Exams from the master Physics of Complex Systems (i-PCS).
+  * Exams from the international master Physics of Complex Systems (i-PCS).
 
 * 2014–2017: **Bachelor in Physics**, Università degli Studi di Roma La Sapienza, Rome. 
   * Bachelor thesis: "2D Ising Model with Conserved Order Parameter". Supervisor: Andrea Crisanti.
