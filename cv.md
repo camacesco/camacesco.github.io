@@ -25,6 +25,7 @@ title: CV
 
 ## Meetings, Presentations and Schools
 
+* Innate and Adaptive Recognition of Antigens and Neoantigens, QBio Colloquium. Paris, June 2022. _Poster_.
 * Annual Meeting of the International Physics of Living Systems (iPoLS) Network. Montpellier, June 2022. _Poster_.
 * Design & Order in the Immune System, A workshop in memory of Nir Friedman. Rehovot, April 2022. _Poster_.
 * PSL Intensive Week on Computer Vision and Time Series for Physics and Engineering. Paris, April 2022.
