@@ -25,16 +25,20 @@ title: CV
 
 ## Meetings, Presentations and Schools
 
-* Innate and Adaptive Recognition of Antigens and Neoantigens, QBio Colloquium. Paris, June 2022. _Poster_.
-* Annual Meeting of the International Physics of Living Systems (iPoLS) Network. Montpellier, June 2022. _Poster_.
-* Design & Order in the Immune System, A workshop in memory of Nir Friedman. Rehovot, April 2022. _Poster_.
+* Summer School on Physical Concepts and Computational Models in Immunology. Cargese, August 2022. 
+* Innate and Adaptive Recognition of Antigens and Neoantigens, QBio Colloquium. Paris, June 2022. **Poster**.
+* Annual Meeting of the International Physics of Living Systems (iPoLS) Network. Montpellier, June 2022. **Poster**.
+* Design & Order in the Immune System, A workshop in memory of Nir Friedman. Rehovot, April 2022. **Poster**.
+* CNRS-WIS PhD Joint Program Workshop. _Remote_, April 2022. **Presentation**.
 * PSL Intensive Week on Computer Vision and Time Series for Physics and Engineering. Paris, April 2022.
-* American Physical Society (APS) March meeting. Remote, March 2022. _Presentation (online)_.
-* Beg Rhou Summer School on Statistical Mechanics and Emergent Phenomena in Biology. Saint-Pierre Quiberon, June 2021. _Poster_.
-* Data Science Summer School (DS3). Remote, January 2021.
+* American Physical Society (APS) March meeting. _Remote_, March 2022. **Presentation (online)**.
+* LPENS OxyJeune. Les Houches, June 2021. **Presentation**.
+* Beg Rhou Summer School on Statistical Mechanics and Emergent Phenomena in Biology. Saint-Pierre Quiberon, June 2021. **Poster**.
+* Data Science Summer School (DS3). _Remote_, January 2021.
 
 ## Events Organized
 
-* LPENS PhD and Postdoc Meetings. Paris, annual 2021. _Director_.
-* Paris Biological Physics Community Day (PBPCD). Paris, October 2021. _Organizer_.
+* Paris Biological Physics Community Day (PBPCD). Paris, November 2022. **Director**.
+* LPENS PhD and Postdoc Meetings. Paris, annual 2021. **Director**.
+* Paris Biological Physics Community Day (PBPCD). Paris, October 2021. **Organizer**.
 
