@@ -31,7 +31,7 @@ title: CV
 * Design & Order in the Immune System, A workshop in memory of Nir Friedman. Rehovot, April 2022. **Poster**.
 * CNRS-WIS PhD Joint Program Workshop. _Remote_, April 2022. **Presentation**.
 * PSL Intensive Week on Computer Vision and Time Series for Physics and Engineering. Paris, April 2022.
-* American Physical Society (APS) March meeting. _Remote_, March 2022. **Presentation (online)**.
+* American Physical Society (APS) March meeting. _Remote_, March 2022. **Presentation**.
 * LPENS OxyJeune. Les Houches, June 2021. **Presentation**.
 * Beg Rhou Summer School on Statistical Mechanics and Emergent Phenomena in Biology. Saint-Pierre Quiberon, June 2021. **Poster**.
 * Data Science Summer School (DS3). _Remote_, January 2021.
