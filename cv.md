@@ -38,7 +38,7 @@ title: CV
 
 ## Events Organized
 
-* Paris Biological Physics Community Day (PBPCD). Paris, November 2022. **Director**.
+* Paris Biological Physics Community Day ([PBPCD22](https://www.phys.ens.fr/parisyoung/2022.html)). Paris, November 2022. **Director**.
 * LPENS PhD and Postdoc Meetings. Paris, annual 2021. **Director**.
-* Paris Biological Physics Community Day (PBPCD). Paris, October 2021. **Organizer**.
+* Paris Biological Physics Community Day ([PBPCD21](https://www.phys.ens.fr/parisyoung/2021.html)). Paris, October 2021. **Organizer**.
 
