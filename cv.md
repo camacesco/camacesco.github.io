@@ -36,9 +36,13 @@ title: CV
 * Beg Rhou Summer School on Statistical Mechanics and Emergent Phenomena in Biology. Saint-Pierre Quiberon, June 2021. **Poster**.
 * Data Science Summer School (DS3). _Remote_, January 2021.
 
+## Teaching
+
+* _Linear Algebra_ and _Arithmetic and Symmetric Cryptography_, BUT at IUT Paris Rive de Seine, 2022. **Chargé de TD, TP**.
+
 ## Events Organized
 
+* LPENS PhD and Postdoc Meetings. Paris, yearly 2022/23. **Organizer**.
 * Paris Biological Physics Community Day ([PBPCD22](https://www.phys.ens.fr/parisyoung/2022.html)). Paris, November 2022. **Director**.
-* LPENS PhD and Postdoc Meetings. Paris, annual 2021. **Director**.
+* LPENS PhD and Postdoc Meetings. Paris, yearly 2021/22. **Director**.
 * Paris Biological Physics Community Day ([PBPCD21](https://www.phys.ens.fr/parisyoung/2021.html)). Paris, October 2021. **Organizer**.
-
