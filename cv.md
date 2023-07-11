@@ -5,7 +5,10 @@ title: CV
 
 ## Education
 
-* 2019–in progress: **PhD in Physics**, École Normale Superiéure, Paris. 
+* 2023–inprogress: **Postdoc**, Institut Pasteur, Paris. 
+  * Mathematical Modelling of Infectious Diseases. Supervisor: Simon Cauchemez.
+
+* 2019–2023: **PhD in Physics**, École Normale Superiéure, Paris. 
   * PhD project: "Statistical Analysis of Thymic Development". Supervisors: Thierry Mora, Aleksandra Walczak.
 
 * 2017–2019: **Master in Physics of Biological Systems**, Università degli Studi di Roma La Sapienza, Rome. 
@@ -38,7 +41,8 @@ title: CV
 
 ## Teaching
 
-* _Linear Algebra_ and _Arithmetic and Symmetric Cryptography_, BUT at IUT Paris Rive de Seine, 2022. **Chargé de TD, TP**.
+* 2022-2023: **Teaching fellow**, BUT at IUT Paris - Rives de Seine.
+ * Linear Algebra, Arithmetic and Symmetric Cryptography, Descriptive Statistics.
 
 ## Events Organized
 
