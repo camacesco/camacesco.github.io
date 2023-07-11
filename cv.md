@@ -28,6 +28,8 @@ title: CV
 
 ## Meetings, Presentations and Schools
 
+* Third Antwerp TCR meeting (ATCR23). Antwerp, May 2023. **Poster**.
+* LPENS Biophysics Axe Seminar. Paris, May 2023. **Presentation**.
 * Summer School on Physical Concepts and Computational Models in Immunology. Cargese, August 2022. 
 * Innate and Adaptive Recognition of Antigens and Neoantigens, QBio Colloquium. Paris, June 2022. **Poster**.
 * Annual Meeting of the International Physics of Living Systems (iPoLS) Network. Montpellier, June 2022. **Poster**.
@@ -42,7 +44,7 @@ title: CV
 ## Teaching
 
 * 2022-2023: **Teaching fellow**, BUT at IUT Paris - Rives de Seine.
- * Linear Algebra, Arithmetic and Symmetric Cryptography, Descriptive Statistics.
+  * Linear Algebra, Arithmetic and Symmetric Cryptography, Descriptive Statistics.
 
 ## Events Organized
 
