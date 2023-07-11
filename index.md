@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-I am **Francesco Camaglia**, currently a postdoc at Institut Pasteur in Paris in the group Mathematical Modelling of Infectious Diseases of Simon Cauchemez ([website]([https://sites.google.com/view/statbiophysens/home?authuser=0](https://research.pasteur.fr/en/team/mathematical-modelling-of-infectious-diseases/))).
+I am **Francesco Camaglia**, currently a postdoc at Institut Pasteur in Paris in the group Mathematical Modelling of Infectious Diseases of Simon Cauchemez ([website](https://research.pasteur.fr/en/team/mathematical-modelling-of-infectious-diseases/)).
 
 I apply techniques from statistical physics and data science to study the infectuos diseases and the adaptive immune system. 
 
